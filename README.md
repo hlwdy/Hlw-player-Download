@@ -26,6 +26,6 @@ Powerful features (subtitles, playlists, full screen...)
 
 # Development environment:
 
-Visual Studio 2015
+Visual Studio 2019
 
 C#  .NET Framework 4.5
